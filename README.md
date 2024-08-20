@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Landon Beard from OKC <br><br>- 🔭 I’m working as a DevOps Engineer<br>- 📚 I'm currently learning Frontend Frameworks<br>- ⚡ In my free time I enjoy spending time with my family, working on side projects, gaming and being outdoors!</p>
+<p align="left"> Landon Beard <br><br>- 🔭 I’m working as a DevOps Engineer<br>- 📚 I'm currently learning Frontend Frameworks<br>- ⚡ In my free time I enjoy spending time with my family, working on side projects, gaming and being outdoors!</p>
 
 ###
 
