@@ -65,7 +65,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=landon-beard&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="175" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=landon-beard&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=6&order=3" height="200" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=landon-beard&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
